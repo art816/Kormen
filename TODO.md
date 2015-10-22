@@ -1,10 +1,10 @@
 ### 1.97
 1. Core
 
-- [ ] fix invalid date bug
-- [ ] speedup alerts
-- [ ] add switch
-- [ ] raise alert on not reachable only if we have 2 consecutive 
+- [X] fix invalid date bug
+- [X] speedup alerts
+- [X] add switch
+- [X] raise alert on not reachable only if we have 2 consecutive 
 - [ ] Make test for first few times collector return nulls!
 - [ ] Tables last online & admin_status do not update when new device is added.
 - [ ] When dev is failing, no other data is collected.
